@@ -1,9 +1,9 @@
 Steps to compile it:
 
-1 - npm install
-2 - npm audit fix
-3 - npm start
-4 - npm run build
+ 1 - npm install
+ 2 - npm audit fix
+ 3 - npm start
+ 4 - npm run build
 
 
 
